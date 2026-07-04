@@ -35,6 +35,6 @@
     }
   ],
   "ignoreDeps": [
-    "com.github.FireMasterK.NewPipeExtractor:NewPipeExtractor"
+    "com.github.TeamNewPipe.NewPipeExtractor:NewPipeExtractor"
   ]
 }
